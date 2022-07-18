@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sQviTbk7OLPoDxSc++LEtYKP3gja8X52xVKcV1BHULfsoE/TJHXZj6M4yDQgWIhchP2Plf+RbJUkNrGqc9PgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amir\\Desktop\\Atriya\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
